@@ -8,4 +8,4 @@ jobs:
         run: echo "Hello world"
       
       - name: Print greeting
-        run: echo "Hello world"
+        run: echo "Good Bye"
